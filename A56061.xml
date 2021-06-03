@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions made by the Lords and Commons in Parliament for the speedie and effectuall reducing of the kingdom of Ireland and the votes thereupon, by both houses presented unto the Kings Majestie : with His Majesties gracious answer and royall assent thereunto.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56061</idno><idno type="EEBO-CITATION">12547028</idno>
+  <idno type="VID">63081</idno>
+  <idno type="EEBO-PROQUEST">2248559574</idno>
+  
+            <idno type="STC">Wing P3795</idno>
+            <idno type="STC">Wing E2206_CANCELLED</idno>
+            <idno type="STC">ESTC R17267</idno>
+            <idno type="OCLC">12547028</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56061)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63081)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 210:19 or 250:E136, no 9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions made by the Lords and Commons in Parliament for the speedie and effectuall reducing of the kingdom of Ireland and the votes thereupon, by both houses presented unto the Kings Majestie : with His Majesties gracious answer and royall assent thereunto.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker ... and by the assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by order of both houses"</note>
+                  <note>This item appears at reel 210:19 as Wing E2206 (number cancelled in Wing Cd-ROM, 1996) and at reel 250:E.136, no. 9 identified as Wing (CD-ROM, 1996) P3795.</note>
+                  <note>Title varies: at reel 250:E.136, no. 9, reads, "Propositions made to the Lords and Commons in Parliament for the speedie and effectuall reducing of the kingdom of Ireland."</note>
+                  <note>Reproduction of originals in Huntington Library and Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63081:1"/>
+            <pb facs="tcp:63081:1"/>
+            <p>PROPOSITIONS Made by the <hi>Lords</hi> and <hi>Commons</hi> in PARLIAMENT, For the speedie and effectuall reducing of the Kingdom of <hi>Ireland.</hi>
+            </p>
+            <p>And the <hi>VOTES</hi> thereupon, <hi>By both HOUSES presented unto the Kings MAjESTIE.</hi>
+            </p>
+            <p>With His MAjESTIES gracious Answer and Royall Assent thereunto.</p>
+            <p>Published hy Order of both Houses.</p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL. MDCXLI.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:63081:2"/>
+            <opener>
+               <dateline>❧ <date>Die Veneris 25. Febr. 1641.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Rdered by the Lords in Parliament, That the Propositions concern<g ref="char:EOLhyphen"/>ing <hi>Ireland,</hi> and His Majesties gracious Answer there<g ref="char:EOLhyphen"/>unto, together with the Directi<g ref="char:EOLhyphen"/>ons, shall be forthwith Printed and Published.</p>
+            <closer>
+               <signed>Jo. Browne Cler. Parl.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_propositions">
+            <pb n="1" facs="tcp:63081:2"/>
+            <head>The Votes of the Lords and Commons, Upon the Propositions made by divers worthy and well-affected persons, for the speedy and effectuall reducing of the Kingdom of IRELAND.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons taking into their seri<g ref="char:EOLhyphen"/>ous considerations, as well the necessitie of a speedy reducing of the Rebels of <hi>Ireland</hi> to their due obedience, as also the great sums of Money that the Commons of this Realm have of late paid for the publike and neces<g ref="char:EOLhyphen"/>sary
+<pb n="2" facs="tcp:63081:3"/> Affairs of the Kingdom, where<g ref="char:EOLhyphen"/>of the Lords and Commons are very sensible and desirous to imbrace all good and honourable wayes tending to His Majesties greatnesse, and profit the setling of that Realm, and the ease of His Majesties Subjects of <hi>England;</hi> And whereas divers wor<g ref="char:EOLhyphen"/>thy and well-affected persons percei<g ref="char:EOLhyphen"/>ving that many millions of Acres of the Rebels Lands of that King<g ref="char:EOLhyphen"/>dom, which go under the name of pro<g ref="char:EOLhyphen"/>fitable Lands, will be confiscate, and to be disposed of, and that in case two millions and a half of those A<g ref="char:EOLhyphen"/>cres to be equally taken out of the four Provinces of that Kingdom, may be allotted for the satisfaction of such persons as shall disburse any sums of Money for the reducing of
+<pb n="3" facs="tcp:63081:3"/> the Rebels there, would effectually accomplish the same, have made these propositions insuing;
+<list>
+                  <item>1 That two millions and an half of those Acres may be assigned, al<g ref="char:EOLhyphen"/>lotted, and divided amongst them af<g ref="char:EOLhyphen"/>ter this proportion: <hi>viz. For each ad<g ref="char:EOLhyphen"/>venture of</hi>
+                     <list>
+                        <item>200. li. 1000 acres in Ulster.</item>
+                        <item>300. li. 1000 acres in Conaght.</item>
+                        <item>450. li. 1000 acres in Munster.</item>
+                        <item>600. li. 1000 acres in Lempster.</item>
+                     </list> All according to the English mea<g ref="char:EOLhyphen"/>sure, and consisting of Meadow, Ar<g ref="char:EOLhyphen"/>rable, and profitable Pasture, the Bogs, Woods, and barren Mount<g ref="char:EOLhyphen"/>ains being cast in over and above. These two millions and a half of A<g ref="char:EOLhyphen"/>cres to be holden in free and common
+<pb n="4" facs="tcp:63081:4"/> Soccage of the King, as of His Castle of <hi>Doublin.</hi>
+                  </item>
+                  <item>2 That out of those two millions and an half of Acres, a constant rent shall be reserved to the Crown of <hi>England,</hi> after this proportion, <hi>viz. Out of each Acre thereof in</hi>
+                     <list>
+                        <item>Ulster 1<seg rend="sup">d</seg>—</item>
+                        <item>Conaght 1<seg rend="sup">d</seg>—ob</item>
+                        <item>Munster 2<seg rend="sup">d</seg>—<abbr>q</abbr>
+                        </item>
+                        <item>Leinster 3<seg rend="sup">d</seg>—</item>
+                     </list> Whereby His Majesties Revenue out of those Lands will be much im<g ref="char:EOLhyphen"/>proved, besides the advantages that He will have by the coming to his hands of all other the Lands of the Rebels, and their personall estates, without any charge unto His Ma<g ref="char:EOLhyphen"/>jestie.</item>
+                  <pb n="5" facs="tcp:63081:4"/>
+                  <item> 3 That for the erecting of Man<g ref="char:EOLhyphen"/>nors, setling of Waste and Commons, maintaining of Preaching Mini<g ref="char:EOLhyphen"/>sters, creating of Corporations, and regulating of the severall Planta<g ref="char:EOLhyphen"/>tions, one or more Commissions be hereafter granted by Authority of Parliament.</item>
+                  <item>4 That Monies for this great occasion may be the more speedily advanced, All the Vndertakers in the City of <hi>London,</hi> and within twenty Miles distant thereof, shall underwrite their severall sums before the twentieth day of <hi>March,</hi> 1641. and all within sixty Miles of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> before the first day of <hi>April,</hi> 1642. And the rest of the Kingdom before the first day of <hi>May</hi> 1642.</item>
+                  <pb n="6" facs="tcp:63081:5"/>
+                  <item> 5 That the severall sums to be underwritten, shall be paid in at four payments, <hi>viz.</hi> one fourth part with<g ref="char:EOLhyphen"/>in ten dayes after such underwriting; and the other three parts at three Moneths, three Moneths, and three Moneths: all to be paid into the Chamber of <hi>London.</hi>
+                  </item>
+                  <item>6 That for the better securing of the said severall sums according<g ref="char:EOLhyphen"/>ly, every one that doth so underwrite, shall at the time of his subscription pay down the twentieth part of the totall sum that shall be by him then underwritten.</item>
+               </list>
+            </p>
+            <p>And in case that the residue of His first fourth part be not paid in to such person or persons, as shall be ap<g ref="char:EOLhyphen"/>pointed to receive the same within the
+<pb n="7" facs="tcp:63081:5"/> ten dayes before limited; then such Partie shall not onely forfeit the twentieth part of the sum totall for<g ref="char:EOLhyphen"/>merly deposited, but so much more of his first fourth payment to be added thereunto, as shall make up the one moity of the said first paiment. And if the same person shall fail in any other of the three paiments, he shall then forfeit his entire first fourth part, and all the benefit of his sub<g ref="char:EOLhyphen"/>scription, which forfeiture shall ac<g ref="char:EOLhyphen"/>crue to the common benefit of the rest of the undertakers.</p>
+            <p>THe Lords and Commons upon due and mature deliberation of these Propositions, have approved of them, and given their consent unto the same, and will become humble Peti<g ref="char:EOLhyphen"/>tioners,
+<pb n="8" facs="tcp:63081:6"/> to His Majestie for his Roy<g ref="char:EOLhyphen"/>all approbation thereof; and that hereafter he will be pleased upon the humble suite of both Houses of Par<g ref="char:EOLhyphen"/>liament, to give His Royall Assent to such Bills as they shall tender unto Him for the settling of those Propo<g ref="char:EOLhyphen"/>sitions, and all other things necessa<g ref="char:EOLhyphen"/>rily conducing thereunto.</p>
+         </div>
+         <div type="response_to_Parliamentary_propositions">
+            <pb n="9" facs="tcp:63081:6"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>English royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other, with this entire figure flanked by the Scottish thistle and Tudor rose on the left and right, respectively</figDesc>
+               </figure>
+            </head>
+            <head>His Majesties gracious Answer and Assent: Declared unto both Houses of Parliament, February 24. 1641. was as followeth.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majestie being very glad to re<g ref="char:EOLhyphen"/>ceive any Propo<g ref="char:EOLhyphen"/>sition that may re<g ref="char:EOLhyphen"/>pair the calamity of His distressed Kingdom of <hi>Ireland,</hi> especially when it may be without burthen
+<pb n="10" facs="tcp:63081:7"/> or Imposition, and for the ease of His good Subjects of this King<g ref="char:EOLhyphen"/>dom; Hath graciously considered the Overture made by both Hou<g ref="char:EOLhyphen"/>ses of Parliament to that purpose, and returns this answer:</p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat as He hath offered, and is still ready to ven<g ref="char:EOLhyphen"/>ture His own Royall Per<g ref="char:EOLhyphen"/>son for the Recovery of that King<g ref="char:EOLhyphen"/>dom, if His Parliament shall ad<g ref="char:EOLhyphen"/>vise Him thereunto, so He will not deny to contribute any other assistance He can to that Service, by parting with any profit, or ad<g ref="char:EOLhyphen"/>vantage of His own there: And therefore (relying upon the wis<g ref="char:EOLhyphen"/>dom of His Parliament) doth con<g ref="char:EOLhyphen"/>sent to every Proposition now
+<pb n="11" facs="tcp:63081:7"/> made to Him, without taking time to examine, whether this course may not retard the reducing of that Kingdom, by exasperating the Rebels, and rendring them desperate of being received into Grace, if they shall return to their Obedience.</p>
+            <p>And His Majestie will be ready to give His Royall assent to all such Bills as shall be tendred unto Him by His Parliament, for the confirmation of every particular of this Proposition.</p>
+         </div>
+         <div type="published_Parliamentary_propositions">
+            <pb facs="tcp:63081:8"/>
+            <pb n="13" facs="tcp:63081:8"/>
+            <head>These Propositions, together with His Majesties Answer thereunto, were by both Houses of Parliament, ordered to be Printed and published the 25. day of February 1641. And for the better effecting of this work, the Lords and Commons have thought fit to publish these ensuing directions.</head>
+            <list>
+               <item>
+                  <p>I <seg rend="decorInit">W</seg>Hereas according to the proportion of lands in the Pro<g ref="char:EOLhyphen"/>posstions mention<g ref="char:EOLhyphen"/>ed (being two mil<g ref="char:EOLhyphen"/>lions and a half of Acres;) the sums to be under-written will not exceed
+<pb n="14" facs="tcp:63081:9"/> one million of Money; It will be requisite that together with the sums under written, the day and time of each subscription be likewise set down; to the intent that those who do under-write before the milli<g ref="char:EOLhyphen"/>on of Money shall be made up, may not be excluded from the benefit of their respective subscriptions, in case they make payment of the respective sums according to the Propositions.</p>
+                  <p>Neverthelesse, if any shall under<g ref="char:EOLhyphen"/>write after the million of Money shall be made up, they shall be admit<g ref="char:EOLhyphen"/>ted to the shares of such as (having under-written to the Million) shall fail of paiment according to the Pro<g ref="char:EOLhyphen"/>positions, or else (at their election) shall be forthwith repaied all such sums as they shall have paid in, up<g ref="char:EOLhyphen"/>on hope of taking benefit of the Pro<g ref="char:EOLhyphen"/>positions.</p>
+               </item>
+               <item>II. The places to be appointed for
+<pb n="15" facs="tcp:63081:9"/> the severall under-writings, to be <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> For the Cities of <hi>Lond</hi> &amp; <hi>Westminster,</hi> and the Counties of <hi>Surrey</hi> and <hi>Mid<g ref="char:EOLhyphen"/>dlesex,</hi> the Chamber of <hi>London:</hi> for all other Counties in <hi>England</hi> and <hi>Wales,</hi> the Townes where the last Assises were kept: <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> But any of those Counties that shall desire to under<g ref="char:EOLhyphen"/>write in <hi>London,</hi> may be at libertie to do it there.</item>
+               <item>III. The persons to be imploied in ta<g ref="char:EOLhyphen"/>king the under-writings and recei<g ref="char:EOLhyphen"/>ving the monies, for <hi>London</hi> and <hi>West<g ref="char:EOLhyphen"/>minster, Middlesex</hi> and <hi>Surrey,</hi> are to be such, as, upon further consultation with the Citizens of <hi>London</hi> shall be appointed <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> And in all other Counties, the Sheriffs of the severall Counties respectively: who are to give acquit<g ref="char:EOLhyphen"/>tances for such sums as they shall receive.</item>
+               <pb n="16" facs="tcp:63081:10"/>
+               <item> IIII. That printed books of the Pro<g ref="char:EOLhyphen"/>positions, and His Majesties answer thereunto, and of the Instructions, shall be sent, and letters written from the Speaker to the severall She<g ref="char:EOLhyphen"/>riffs of the said Counties, who shall publish the Books and Letters at the next Assizes, and shall then like<g ref="char:EOLhyphen"/>wise give publike notice of the times and places by them to be appointed, aswell for the severall under-wri<g ref="char:EOLhyphen"/>tings, as for the paiment of the sums that shall be under-written: And for the better publishing of those books, the severall Citizens and Burges<g ref="char:EOLhyphen"/>ses of the House of Commons, shall forthwith send down severall Books and Letters, to the head-Officers of their Cities and Boroughs re<g ref="char:EOLhyphen"/>spectively.</item>
+               <pb n="17" facs="tcp:63081:10"/>
+               <item> V. That the severall Sheriffs shall from week to week, send up to the Chamber of <hi>London</hi> a true list of the names and sums subscribed, and of the time of the subscription.</item>
+               <item>VI. For the better incouragement of such persons as shall be imployed for the Citie of <hi>London,</hi> and the parts ad<g ref="char:EOLhyphen"/>joyning, as likewise of the said She<g ref="char:EOLhyphen"/>riffs and such other persons as shall be by them imployed herein, it shall, and may be lawfull for the said Sheriffs, and for the said persons appointed for the Citie of <hi>London</hi> re<g ref="char:EOLhyphen"/>spectively, to deduct and retain to his or their use, after the rate of one peny in the pound, for their pains and charges in receiving the said sums, and in returning the same.</item>
+               <pb n="18" facs="tcp:63081:11"/>
+               <item> VII. That together with the printed Propositions and Letters from the Speaker, Paper Books with Ti<g ref="char:EOLhyphen"/>tles prefixed, shalbe sent down to the Sheriffs of each County, in the be<g ref="char:EOLhyphen"/>ginning of which Books next under the Titles, the Knights, Citizens, and Burgesses respectively that serve for the same, and who shall un<g ref="char:EOLhyphen"/>der-write any sum, according to the said Propositions, shall subscribe their names and sums in the first place.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63081:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
